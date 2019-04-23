@@ -1,5 +1,5 @@
 {
-  "courseLevels": [
+  "courseLevels":
     {
       "basicCourses": [
         {
@@ -653,8 +653,7 @@
           "author": ""
         }
       ]
-    }
-  ],
+    },
   "languages": [
     {
       "name": "JavaScript",
