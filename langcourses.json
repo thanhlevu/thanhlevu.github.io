@@ -657,47 +657,47 @@
   "languages": [
     {
       "name": "JavaScript",
-      "logo": ""
+      "logo": "JavaScript"
     },
     {
       "name": "Python",
-      "logo": ""
+      "logo": "Python"
     },
     {
       "name": "Java",
-      "logo": ""
+      "logo": "Java"
     },
     {
       "name": "C",
-      "logo": ""
+      "logo": "C"
     },
     {
       "name": "PHP",
-      "logo": ""
+      "logo": "PHP"
     },
     {
       "name": "Swift",
-      "logo": ""
+      "logo": "Swift"
     },
     {
       "name": "C#",
-      "logo": ""
+      "logo": "C#"
     },
     {
       "name": "Ruby",
-      "logo": ""
+      "logo": "Ruby"
     },
     {
-      "name": "Objective C",
-      "logo": ""
+      "name": "Objective-C",
+      "logo": "Obj-C"
     },
     {
       "name": "SQL",
-      "logo": ""
+      "logo": "SQL"
     },
     {
       "name": "HTML/CSS",
-      "logo": ""
+      "logo": "HTML"
     }
   ]
 }
