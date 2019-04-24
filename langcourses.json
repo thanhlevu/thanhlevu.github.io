@@ -517,7 +517,7 @@
           "name": "backbone",
           "no": "javascript-3",
           "title": "Backbone Tutorial: Learn Backbonejs from Scratch",
-          "subtitle": "Dive in and learn React 16.8 from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+          "subtitle": "A collection of hands-on, step-by-step, bite-sized Backbone tutorials covering fundamentals of Backbone.",
           "linkToWeb": "https://www.udemy.com/backbonejs-tutorial/",
           "linkToImage": "https://i.udemycdn.com/course/240x135/306556_2af2_6.jpg",
           "requirements": ["JS-1"],
@@ -555,7 +555,7 @@
         {
           "id": 4,
           "name": "django",
-          "no": "javascript-3",
+          "no": "python-3",
           "title": "Python and Django Full Stack Web Developer Bootcamp",
           "subtitle": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
           "linkToWeb": "https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/",
@@ -575,7 +575,7 @@
         {
           "id": 4,
           "name": "pyramid",
-          "no": "javascript-3",
+          "no": "python-3",
           "title": "Python Pyramid Web Dev - Beginners",
           "subtitle": "At the end of this training, you will be able to create a web app using Pyramid that you can build upon.",
           "linkToWeb": "https://www.udemy.com/python-pyramid-web-dev-beginners/",
@@ -595,7 +595,7 @@
         {
           "id": 4,
           "name": "turbogears",
-          "no": "javascript-3",
+          "no": "python-3",
           "title": "TurboGears 2 - A web framework to rule them all!",
           "subtitle": "At the end of this training, you will be able to create a web app using Pyramid that you can build upon.",
           "linkToWeb": "https://www.udemy.com/turbogears-2-a-web-framework-to-rule-them-all/",
@@ -615,7 +615,7 @@
         {
           "id": 4,
           "name": "web2py",
-          "no": "javascript-3",
+          "no": "python-3",
           "title": "Fun and creative web engineering with Python and Web2py",
           "subtitle": "Enjoy learning programming with Python, building web-apps you publish on the web.",
           "linkToWeb": "https://www.udemy.com/web-engineering-with-python-and-web2py/",
@@ -635,7 +635,7 @@
         {
           "id": 4,
           "name": "pyramid",
-          "no": "javascript-3",
+          "no": "python-3",
           "title": "Python and Flask Bootcamp: Create Websites using Flask!",
           "subtitle": "Create awesome websites using the powerful Flask framework for Python!",
           "linkToWeb": "https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/",
